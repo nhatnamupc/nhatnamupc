@@ -3,12 +3,12 @@
 
 <p>
 <a href="https://github.com/nhatnamupc/github-readme-stats">
-  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nhatnamupc&show_icons=true&theme=gotham" alt="nhatnamupc" />
+  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nhatnamupc&count_private=true&show_icons=true&theme=gotham" alt="nhatnamupc" />
 <p>
 </a>
 </p>
 <a href="https://github.com/nhatnamupc/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhatnamupc&layout=compact&theme=gotham" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhatnamupc&count_private=true&layout=compact&theme=gotham" />
 </a>
 </p>
 

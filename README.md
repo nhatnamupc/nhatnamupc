@@ -2,12 +2,12 @@
 <h2 align="center"> Hi there 👋</h2>
 
 <p>
-<a href="https://github.com/nhatnamupc/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nhatnamupc&count_private=true&show_icons=true&theme=gotham" alt="nhatnamupc" />
 <p>
 </a>
 </p>
-<a href="https://github.com/nhatnamupc/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhatnamupc&count_private=true&layout=compact&theme=gotham" />
 </a>
 </p>
